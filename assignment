@@ -1,0 +1,9 @@
+1. Create a list of 10 subjects and print each of the items in the list
+
+2. create two lists
+a. First list should contain the first names of everyone in this class( at least 5 names)
+b. Second list should contain the last names of everyone in this class (at least 5 names too)
+using the for loop, make a new list containing all the names well combined together
+Print the third list
+
+
