@@ -1,9 +1,10 @@
-from decimal import Decimal
+from decimal import Decimal as D
 
-sum = Decimal(0.1)
-sum += Decimal(0.1)
-sum += Decimal(0.1)
-sum -= Decimal(0.3)
+sum = 0
+sum += D("0.1")
+sum += D("0.1")
+sum += D("0.1")
+sum -= D("0.3")
 
 print(sum)
 
