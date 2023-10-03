@@ -82,6 +82,7 @@ while True:
 			result = calculator.modulo()
 
 		print("Result: ", result)
+		print()
 
 	else:
 		print("Invalid operation")
